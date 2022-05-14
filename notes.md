@@ -64,13 +64,3 @@ Query time is approximately 45 milliseconds average.
 
 ## # Additional information
 *Note: Helper classes are located in `app/Helpers` directory (if you are interested).*
-
-### TODO
-* [x] Check database and index.
-* [x] Check code.
-* [x] Test feature.
-* [x] Do import and migration again.
-* [ ] Send note.md separately.
-* [ ] Push code to github.
-* [ ] Update project markdown file.
-* [ ] Send everything.
