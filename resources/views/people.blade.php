@@ -9,6 +9,7 @@
 
                     {{-- data filters --}}
                     <form method="GET">
+                        @csrf
                         <div class="row mb-3">
                             <div class="col">
                                 <label class="form-label" for="birth-year">Birth year</label>
